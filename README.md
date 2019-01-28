@@ -3,7 +3,11 @@ Please raise issue if you know better or alternative ways to convert and process
 
 # Convert jpeg, png, bmp, wbmp, and gif into jpg using Java (only )
 
-`io.szjug.ImageConverter7` is enhancement over examples listed below.
+`io.szjug.ImageConverter7` is enhancement over examples listed below.  
+It uses only JDK ([jpeg, png, bmp, wbmp, and gif](https://docs.oracle.com/javase/8/docs/api/javax/imageio/package-summary.html)),  
+[`tif` is supported since Java 9](https://docs.oracle.com/javase/9/docs/api/javax/imageio/package-summary.html)
+
+
 
 
 png to jpg conversion is to be relatively easy
