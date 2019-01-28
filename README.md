@@ -1,4 +1,6 @@
 
+Please raise issue if you know better or alternative ways to convert and process images using Java
+
 png to jpg conversion is to be relatively easy
 http://www.mkyong.com/java/convert-png-to-jpeg-image-file-in-java/
 
