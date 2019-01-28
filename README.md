@@ -1,6 +1,11 @@
 
 Please raise issue if you know better or alternative ways to convert and process images using Java
 
+# Convert jpeg, png, bmp, wbmp, and gif into jpg using Java (only )
+
+`io.szjug.ImageConverter7` is enhancement over examples listed below.
+
+
 png to jpg conversion is to be relatively easy
 http://www.mkyong.com/java/convert-png-to-jpeg-image-file-in-java/
 
