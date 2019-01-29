@@ -21,7 +21,8 @@ public class ImageConverter7 {
      *
      * @param inputImagePath Path of the source image
      * @param outputImagePath Path of the destination image
-     * @param formatName the format to be converted to, one of: jpeg, png, bmp, wbmp, and gif
+     * @param formatName the format to be converted to, one of: jpeg, png, bmp, wbmp, gif
+     * 			and if corresponding ImageIO modules are installed, then tiff and many more others
      * @return true if successful, false otherwise (IOException has happened)
      * @throws FileNotFoundException if inputImagePath or outputImagePath cannot be located
      */

@@ -1,14 +1,17 @@
-package net.codejava.graphic;
+package io.szjug;
 
 import java.io.FileNotFoundException;
+import java.util.Iterator;
 
-import io.szjug.ImageConverter7;
+import javax.imageio.ImageIO;
+import javax.imageio.ImageReader;
 
-public class TestImageConverter7 {
+public class TestImageConverterTIF {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		String inputImage = "PNG_transparency_demonstration_1.png";
-		String oututImage = "PNG_transparency_demonstration_7.jpg";
+		
+		String inputImage = "263.tif";
+		String oututImage = "263.jpg";
 		String formatName = "jpg";
 		
 		boolean result = ImageConverter7.convertFormat(inputImage, oututImage, formatName);

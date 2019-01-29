@@ -2,6 +2,12 @@
 /.settings/
 /.classpath
 
+.idea/*
+*.iml
+
 bin
 target
 /PNG*.jpg
+/263.tif
+/263.jpg
+/.idea/
